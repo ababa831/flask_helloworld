@@ -1,6 +1,6 @@
 # flask_helloworld
 
-The repository gives an example of "Hello World" by flask WEB application. 
+The repository gives an example of flask "Hello World" WEB application. 
 
 ## Usage
 
